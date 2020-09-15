@@ -6,12 +6,12 @@ These three sections review numpy, pandas, seaborn and matplotlib for data prepr
 
 Section 3:
 Based on LendingClub DataSet from Kaggle: [https://www.kaggle.com/wordsforthewise/lending-club](https://www.kaggle.com/wordsforthewise/lending-club) an ANN model is built to predict whether a borrower will be able to pay back their loan. There are many data preprocessing operation has been done to remove unnecessary features.
-![GitHub Logo](../result_pic/3-1.png)
-![GitHub Logo](../result_pic/3-2.png)
+![GitHub Logo](/result_pics/3-1.png)
+![GitHub Logo](/result_pics/3-2.png)
 Loss, validation loss vs training time diagram is attached below for model evaluation.
-![GitHub Logo](../result_pic/3-3.png)
+![GitHub Logo](/result_pics/3-3.png)
 
 Section 4:
 This task is to build an image classifier with Keras and Convolutional Neural Networks for the Fashion MNIST dataset. This data set includes 10 labels of different clothing types with 28 by 28 grayscale images. There is a training set of 60,000 images and 10,000 test images.
 
-![GitHub Logo](../result_pic/4-1.png)
+![GitHub Logo](/result_pics/4-1.png)
