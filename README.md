@@ -10,3 +10,8 @@ Based on LendingClub DataSet from Kaggle: [https://www.kaggle.com/wordsforthewis
 ![GitHub Logo](/result_pic/3-2.png)
 Loss, validation loss vs training time diagram is attached below for model evaluation.
 ![GitHub Logo](/result_pic/3-3.png)
+
+Section 4:
+This task is to build an image classifier with Keras and Convolutional Neural Networks for the Fashion MNIST dataset. This data set includes 10 labels of different clothing types with 28 by 28 grayscale images. There is a training set of 60,000 images and 10,000 test images.
+
+![GitHub Logo](/result_pic/4-1.png)
