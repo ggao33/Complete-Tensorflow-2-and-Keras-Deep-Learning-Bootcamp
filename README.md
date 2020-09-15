@@ -6,5 +6,7 @@ These three sections review numpy, pandas, seaborn and matplotlib for data prepr
 
 Section 3:
 Based on LendingClub DataSet from Kaggle: [https://www.kaggle.com/wordsforthewise/lending-club](https://www.kaggle.com/wordsforthewise/lending-club) an ANN model is built to predict whether a borrower will be able to pay back their loan. There are many data preprocessing operation has been done to remove unnecessary features.
-
+![GitHub Logo](/result_pic/3-1.png)
+![GitHub Logo](/result_pic/3-2.png)
 Loss, validation loss vs training time diagram is attached below for model evaluation.
+![GitHub Logo](/result_pic/3-3.png)
