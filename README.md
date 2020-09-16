@@ -44,4 +44,7 @@ The historical Montly Sales data looks like:
 Taking advantage of RNN, we forcast the Sales trend based on historical data:
 ![GitHub Logo](/result_pics/5-4.png)
 
+## Section 6: NLP and Text Data:
+The Structure of text in William Shakespeare's work is learned in GRU in order to forget gate with fewer parameters compared to LSTM. Text can also be generated based on our model with given keywords.
+![GitHub Logo](/result_pics/6-1.png)
 
