@@ -12,7 +12,7 @@ Loss, validation loss vs training time diagram is attached for model evaluation.
 ![GitHub Logo](/result_pics/3-3.png)
 
 ## Section 4: Convolutional Neural Network
-In this section, MNIST(Grascake images), CIFAR10(Color Images) datasets are used for training CNN which helps reduce parameters by focusing on local connectivity. ALso pooling layer is added after convolutional layer in the model to help reducing large amount of parameters.
+In this section, MNIST(Grascake images), CIFAR10(Color Images) datasets are used for training CNN which helps reduce parameters by focusing on local connectivity. Also pooling layer is added after convolutional layer in the model to help reducing large amount of parameters.
 [Cell images taken from official NIH wensite](https://drive.google.com/open?id=1rXrgUzzIdsyJ4xp05Suq7ioR5q1tOtFY) are examples to deal with real image files which feed into the model in batches due to large groups of images. It resizes raw images and train the model to predict which cell is infected or not. 
 
 ![GitHub Logo](/result_pics/4-1.png)
