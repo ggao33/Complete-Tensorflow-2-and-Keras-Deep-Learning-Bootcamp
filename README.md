@@ -62,11 +62,11 @@ MNIST images are trained through GANs and DCGANs. There are some generated image
 ![GitHub Logo](/result_pics/8-3.png)
 
 ## Section 9: Deployment
--Create a Model
--Exporting a Model
--Creating a Callable API
--Calling the API with Postman
--Calling the API with Python
--Calling a model through Flask
--Launching a full ML App to the web
+- Create a Model
+- Exporting a Model
+- Creating a Callable API
+- Calling the API with Postman
+- Calling the API with Python
+- Calling a model through Flask
+- Launching a full ML App to the web
 
